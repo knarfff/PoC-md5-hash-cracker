@@ -28,4 +28,4 @@ importante = adivinarContraseña(md5Pass, listaPa)
 
 imprimir(importante, md5Pass)
 
-# PoV: a906449d5769fa7361d7ecc6aa3f6d28 - 5896d3690544fa3af676a8f94b8bad73 - 181461fa05c3f88bf544f07e5f9c7e3d - 5f4dcc3b5aa765d61d8327deb882cf99 #
+# PoC: a906449d5769fa7361d7ecc6aa3f6d28 - 5896d3690544fa3af676a8f94b8bad73 - 181461fa05c3f88bf544f07e5f9c7e3d - 5f4dcc3b5aa765d61d8327deb882cf99 #
